@@ -1,4 +1,4 @@
-# TODO APPLICATION
+# INSTAGRAM APPLICATION
 
 * Framework : SpringBoot
 * Langauge  : Java
